@@ -10,11 +10,10 @@
 </div>
 
 ## 🙋‍♂️ About Me
-
 I'm a Junior Frontend Developer with aspirations to become a Fullstack Developer and Indie Creator. As I continue to hone my development skills, I'm immersing myself in the world of indie creation, launching my own projects.
 
-## 👩‍💻 Tech Stack
 
+## 👩‍💻 Tech Stack
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -30,29 +29,23 @@ I'm a Junior Frontend Developer with aspirations to become a Fullstack Developer
 
 
 ## 🚀 Currently Learning
-
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Astro Badge](https://img.shields.io/badge/Astro-6699FF?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 
 
 ## 🔭 Projects I'm Working On
-
 - [Giftstorming AI](https://github.com/AndryOre/giftstorming-ai).
 
 In addition, I am actively involved in the [Indie Creators HQ](https://github.com/Indie-Creator-Community) community, where I share my project updates and collaborate with other talented creators.
 
 
-## 📈 Statistics
-
+## 📈 Stats
 ![Andry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndryOre&show_icons=true&theme=github_dark)
-
-![Andry's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndryOre&layout=compact&theme=github_dark)
-
 ![Andry's GitHub Streak](https://streak-stats.demolab.com/?user=AndryOre&theme=github-dark-blue)
+![Andry's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndryOre&layout=compact&theme=github_dark)
 
 
 ## 📮 Contact
-
 If you have any questions, want to chat, or are interested in collaboration, feel free to reach out. You can find me on:
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/AndryOre/)](https://www.instagram.com/AndryOre/)
