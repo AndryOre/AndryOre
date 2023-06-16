@@ -10,7 +10,7 @@
 </div>
 
 ## 🙋‍♂️ About Me
-I'm a Junior Frontend Developer with aspirations to become a Fullstack Developer and Indie Creator. As I continue to hone my development skills, I'm immersing myself in the world of indie creation, launching my own projects.
+I'm a Frontend Developer with aspirations to become a Fullstack Developer and Indie Creator. As I continue to hone my development skills, I'm immersing myself in the world of indie creation, launching my own projects.
 
 
 ## 👩‍💻 Tech Stack
