@@ -34,7 +34,7 @@ I'm a Frontend Developer with aspirations to become a Fullstack Developer and In
 
 
 ## 🔭 Projects I'm Working On
-- [Giftstorming AI](https://github.com/AndryOre/giftstorming-ai).
+- [Giftstorming AI](https://github.com/AndryOre/giftstormingai).
 
 In addition, I am actively involved in the [Indie Creators HQ](https://github.com/Indie-Creator-Community) community, where I share my project updates and collaborate with other talented creators.
 
