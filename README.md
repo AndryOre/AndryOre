@@ -31,6 +31,7 @@ I'm a Frontend Developer with aspirations to become a Fullstack Developer and In
 ## 🚀 Currently Learning
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![NextJs Badge](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 
 ## 🔭 Projects I'm Working On
 - [Giftstorming AI](https://github.com/AndryOre/giftstormingai).
