@@ -32,6 +32,9 @@ I'm a Frontend Developer with aspirations to become a Fullstack Developer and In
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![NextJs Badge](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+[![tRPC Badge](https://img.shields.io/badge/tRPC-2596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)](https://trpc.io/)
+[![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
 
 ## 🔭 Projects I'm Working On
 - [Giftstorming AI](https://github.com/AndryOre/giftstormingai).
