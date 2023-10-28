@@ -34,12 +34,11 @@ I'm a Frontend Developer with aspirations to become a Fullstack Developer and In
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![tRPC Badge](https://img.shields.io/badge/tRPC-2596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)](https://trpc.io/)
 [![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
 
 ## 🔭 Projects I'm Working On
-- [Giftstorming AI](https://github.com/AndryOre/giftstormingai).
-
-In addition, I am actively involved in the [Indie Creators HQ](https://github.com/Indie-Creator-Community) community, where I share my project updates and collaborate with other talented creators.
+- [Giftstorming AI](https://github.com/AndryOre/giftstormingai)
+- [Indie Creators HQ](https://github.com/AndryOre/indie-creators-hq)
+- [Simplus Labs](https://github.com/simplus-Labs/)
 
 
 ## 📈 Stats
