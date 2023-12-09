@@ -36,7 +36,6 @@ I'm a Frontend Developer with aspirations to become a Fullstack Developer and In
 [![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
 
 ## 🔭 Projects I'm Working On
-- [Giftstorming AI](https://github.com/AndryOre/giftstormingai)
 - [Indie Creators HQ](https://github.com/AndryOre/indie-creators-hq)
 - [Simplus Labs](https://github.com/simplus-Labs/)
 
