@@ -26,6 +26,7 @@ I'm a Frontend Developer with aspirations to become a Fullstack Developer and In
 [![Vercel Badge](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)](https://vercel.com/)
 [![Railway Badge](https://img.shields.io/badge/Railway-0B0D0E.svg?style=for-the-badge&logo=Railway&logoColor=white)](https://railway.app/)
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/)
+[![Shadcn/UI Badge](https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white)](https://ui.shadcn.com/)
 
 
 ## 🚀 Currently Learning
@@ -34,10 +35,12 @@ I'm a Frontend Developer with aspirations to become a Fullstack Developer and In
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![tRPC Badge](https://img.shields.io/badge/tRPC-2596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)](https://trpc.io/)
 [![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
+[![Astro Badge](https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white)](https://astro.build/)
+
 
 ## 🔭 Projects I'm Working On
-- [Indie Creators HQ](https://github.com/AndryOre/indie-creators-hq)
-- [Simplus Labs](https://github.com/simplus-Labs/)
+- [Let's Focus](https://github.com/AndryOre/lets-focus)
+- [Fluent](https://github.com/santiagohernandezs/fluent)
 
 
 ## 📈 Stats
