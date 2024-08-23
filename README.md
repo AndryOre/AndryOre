@@ -1,6 +1,6 @@
 <div align="center">
 
-# Andry Orellana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="36" height="36" />
+# Andry Orellana <img src="https://cdn.animated-fluent-emojis.com/webp/People/mantechie.webp" width="36" height="36" />
 
 [![X][X Badge]][X URL]
 [![Instagram][Instagram Badge]][Instagram URL]
@@ -9,11 +9,11 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
+## <img src="https://cdn.animated-fluent-emojis.com/webp/Travel%20and%20places/launch.webp" width="25" height="25" /> About Me
 
 I'm a software developer passionate about building full-stack web applications. My approach is project-driven: I learn and apply technologies as needed to bring ideas to life. Each project is an opportunity to deepen existing skills or explore new tools, always with the goal of creating functional, user-friendly solutions.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Technologies & Tools
+## <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f6e0_hammerandwrench.webp" width="25" height="25" /> Technologies & Tools
 
 | Category             | Technologies                                                                                                                                                                                                                                                                                                                 |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -23,9 +23,9 @@ I'm a software developer passionate about building full-stack web applications. 
 | Development Tools    | [![Vite][Vite Badge]][Vite URL] [![PNPM][PNPM Badge]][PNPM URL] [![Eslint][Eslint Badge]][Eslint URL] [![Prettier][Prettier Badge]][Prettier URL] [![Commitlint][Commitlint Badge]][Commitlint URL] [![Conventional Commits][Conventional Commits Badge]][Conventional Commits URL] [![i18next][i18next Badge]][i18next URL] |
 | Deployment           | [![Vercel][Vercel Badge]][Vercel URL] [![Railway][Railway Badge]][Railway URL]                                                                                                                                                                                                                                               |
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Featured Projects
+## <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4bc_briefcase.webp" width="25" height="25" /> Featured Projects
 
-### Bookmark Import/Export <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="25" height="25" />
+### Bookmark Import/Export <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f516_bookmark.webp" width="25" height="25" />
 
 A web extension for importing and exporting bookmarks across browsers.
 
@@ -36,17 +36,29 @@ A web extension for importing and exporting bookmarks across browsers.
 [![Lucide][Lucide Badge]][Lucide URL]
 [![TypeScript][TypeScript Badge]][TypeScript URL]
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="25" height="25" /> [Chrome Web Store][Chrome Web Store URL]
+<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4e6_package.webp" width="25" height="25" /> [Chrome Web Store][Bookmark Import/Export Chrome Web Store URL]
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> [Repository][Repo URL]
+<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f517_linksymbol.webp" width="25" height="25" /> [Repository][Bookmark Import/Export Repo URL]
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
+### Animated Fluent Emojis <img src="https://cdn.animated-fluent-emojis.com/webp/Activities/2728_sparkles.webp" width="25" height="25" />
+
+React component library that brings Microsoft's Fluent emojis to life in your web applications.
+
+[![React][React Badge]][React URL]
+[![TypeScript][TypeScript Badge]][TypeScript URL]
+[![Vite][Vite Badge]][Vite URL]
+
+<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4e6_package.webp" width="25" height="25" /> [NPM Package][Animated Fluent Emojis NPM URL]
+
+<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f517_linksymbol.webp" width="25" height="25" /> [Repository][Animated Fluent Emojis Repo URL]
+
+## <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4ca_barchart.webp" width="25" height="25" /> GitHub Stats
 
 ![Andry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndryOre&show_icons=true&theme=github_dark)
 ![Andry's GitHub Streak](https://streak-stats.demolab.com/?user=AndryOre&theme=github-dark-blue)
 ![Andry's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndryOre&layout=compact&theme=github_dark)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Let's Connect
+## <img src="https://cdn.animated-fluent-emojis.com/webp/Hand%20gestures/handshake.webp" width="25" height="25" /> Let's Connect
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
@@ -63,8 +75,10 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 [LinkedIn URL]: https://linkedin.com/in/AndryOre
 [GMail Badge]: https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white
 [GMail URL]: mailto:andryfpo@gmail.com
-[Chrome Web Store URL]: https://chromewebstore.google.com/detail/bookmark-importexport/gdhpeilfkeeajillmcncaelnppiakjhn
-[Repo URL]: https://github.com/AndryOre/bookmarks-import-export
+[Bookmark Import/Export Chrome Web Store URL]: https://chromewebstore.google.com/detail/bookmark-importexport/gdhpeilfkeeajillmcncaelnppiakjhn
+[Bookmark Import/Export Repo URL]: https://github.com/AndryOre/bookmarks-import-export
+[Animated Fluent Emojis NPM URL]: https://www.npmjs.com/package/animated-fluent-emojis
+[Animated Fluent Emojis Repo URL]: https://github.com/AndryOre/animated-fluent-emojis
 [HTML5 Badge]: https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
 [HTML5 URL]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [CSS3 Badge]: https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white
