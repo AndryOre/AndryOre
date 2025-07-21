@@ -17,11 +17,11 @@ I'm a software developer passionate about building full-stack web applications. 
 
 | Category             | Technologies                                                                                                                                                                                                                                                                                                                 |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Languages & Frontend | [![HTML5][HTML5 Badge]][HTML5 URL] [![CSS3][CSS3 Badge]][CSS3 URL] [![JavaScript][JavaScript Badge]][JavaScript URL] [![TypeScript][TypeScript Badge]][TypeScript URL] [![React][React Badge]][React URL] [![Next.js][Next.js Badge]][Next.js URL] [![Astro][Astro Badge]][Astro URL] [![Plasmo][Plasmo Badge]][Plasmo URL]  |
+| Languages & Frontend | [![HTML5][HTML5 Badge]][HTML5 URL] [![CSS3][CSS3 Badge]][CSS3 URL] [![JavaScript][JavaScript Badge]][JavaScript URL] [![TypeScript][TypeScript Badge]][TypeScript URL] [![React][React Badge]][React URL] [![Next.js][Next.js Badge]][Next.js URL] [![Astro][Astro Badge]][Astro URL] [![Plasmo][Plasmo Badge]][Plasmo URL] [![ReactHookForm][ReactHookForm Badge]][ReactHookForm URL] [![XYFlow][XYFlow Badge]][XYFlow URL]  |
 | UI & Styling         | [![TailwindCSS][TailwindCSS Badge]][TailwindCSS URL] [![Shadcn/UI][Shadcn/UI Badge]][Shadcn/UI URL] [![Lucide][Lucide Badge]][Lucide URL] [![Figma][Figma Badge]][Figma URL]                                                                                                                                                 |
-| Backend & Data       | [![TRPC][TRPC Badge]][TRPC URL] [![Prisma][Prisma Badge]][Prisma URL] [![Zod][Zod Badge]][Zod URL]                                                                                                                                                                                                                           |
+| Backend & Data       | [![BetterAuth][BetterAuth Badge]][BetterAuth URL] [![TRPC][TRPC Badge]][TRPC URL] [![Prisma][Prisma Badge]][Prisma URL] [![Zod][Zod Badge]][Zod URL] [![PostgreSQL][PostgreSQL Badge]][PostgreSQL URL] [![Resend][Resend Badge]][Resend URL]                                                                                 |
 | Development Tools    | [![Vite][Vite Badge]][Vite URL] [![PNPM][PNPM Badge]][PNPM URL] [![Eslint][Eslint Badge]][Eslint URL] [![Prettier][Prettier Badge]][Prettier URL] [![Commitlint][Commitlint Badge]][Commitlint URL] [![Conventional Commits][Conventional Commits Badge]][Conventional Commits URL] [![i18next][i18next Badge]][i18next URL] |
-| Deployment           | [![Vercel][Vercel Badge]][Vercel URL] [![Railway][Railway Badge]][Railway URL]                                                                                                                                                                                                                                               |
+| Deployment           | [![Vercel][Vercel Badge]][Vercel URL] [![Railway][Railway Badge]][Railway URL] [![Neon][Neon Badge]][Neon URL]                                                                                                                                                                                                               |
 
 ## <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4bc_briefcase.webp" width="25" height="25" /> Featured Projects
 
@@ -36,9 +36,25 @@ A web extension for importing and exporting bookmarks across browsers.
 [![Lucide][Lucide Badge]][Lucide URL]
 [![TypeScript][TypeScript Badge]][TypeScript URL]
 
-<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4e6_package.webp" width="25" height="25" /> [Chrome Web Store][Bookmark Import/Export Chrome Web Store URL]
+<img src="https://cdn.animated-fluent-emojis.com/webp/Activities/1f9e9_jigsaw.webp" width="25" height="25" /> [Chrome Web Store][Bookmark Import/Export Chrome Web Store URL]
 
-<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f517_linksymbol.webp" width="25" height="25" /> [Repository][Bookmark Import/Export Repo URL]
+<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f5c2_cardindexdividers.webp" width="25" height="25" /> [Repository][Bookmark Import/Export Repo URL]
+
+### JSON Flow <img src="https://cdn.animated-fluent-emojis.com/webp/Animals/1f578_spiderweb.webp" width="25" height="25" />
+
+A powerful VS Code extension to turn your JSON, YAML, XML, and CSV files into interactive graphs.
+
+[![XYFlow][XYFlow Badge]][XYFlow URL]
+[![React][React Badge]][React URL]
+[![TailwindCSS][TailwindCSS Badge]][TailwindCSS URL]
+[![Shadcn/UI][Shadcn/UI Badge]][Shadcn/UI URL]
+[![Lucide][Lucide Badge]][Lucide URL]
+[![TypeScript][TypeScript Badge]][TypeScript URL]
+[![Astro][Astro Badge]][Astro URL]
+
+<img src="https://cdn.animated-fluent-emojis.com/webp/Travel%20and%20places/1f310_globewithmeridians.webp" width="25" height="25" /> [Webbsite][JSON Flow URL]
+
+<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f5c2_cardindexdividers.webp" width="25" height="25" /> [Repository][JSON Flow Repo URL]
 
 ## <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4ca_barchart.webp" width="25" height="25" /> GitHub Stats
 
@@ -65,8 +81,6 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 [GMail URL]: mailto:andryfpo@gmail.com
 [Bookmark Import/Export Chrome Web Store URL]: https://chromewebstore.google.com/detail/bookmark-importexport/gdhpeilfkeeajillmcncaelnppiakjhn
 [Bookmark Import/Export Repo URL]: https://github.com/AndryOre/bookmarks-import-export
-[Animated Fluent Emojis NPM URL]: https://www.npmjs.com/package/animated-fluent-emojis
-[Animated Fluent Emojis Repo URL]: https://github.com/AndryOre/animated-fluent-emojis
 [HTML5 Badge]: https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
 [HTML5 URL]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [CSS3 Badge]: https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white
@@ -105,13 +119,27 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 [Plasmo URL]: https://www.plasmo.com/
 [Lucide Badge]: https://img.shields.io/badge/Lucide-f67373.svg?style=for-the-badge&logo=lucide&logoColor=white
 [Lucide URL]: https://lucide.dev/
+[BetterAuth Badge]: https://img.shields.io/badge/Better%20Auth-FFFFFF.svg?style=for-the-badge&logo=Better-Auth&logoColor=black
+[BetterAuth URL]: https://www.better-auth.com/
 [TRPC Badge]: https://img.shields.io/badge/tRPC-2596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white
 [TRPC URL]: https://trpc.io/
 [Prisma Badge]: https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white
 [Prisma URL]: https://www.prisma.io/
 [Zod Badge]: https://img.shields.io/badge/Zod-3E67B1.svg?style=for-the-badge&logo=Zod&logoColor=white
 [Zod URL]: https://zod.dev/
+[PostgreSQL Badge]: https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white
+[PostgreSQL URL]: https://www.postgresql.org/
 [Conventional Commits Badge]: https://img.shields.io/badge/Conventional%20Commits-FE5196.svg?style=for-the-badge&logo=Conventional-Commits&logoColor=white
 [Conventional Commits URL]: https://www.conventionalcommits.org/en/v1.0.0/
 [PNPM Badge]: https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white
 [PNPM URL]: https://pnpm.io/
+[Neon Badge]: https://img.shields.io/badge/Neon-00E599.svg?style=for-the-badge&logo=Neon&logoColor=black
+[Neon URL]: https://neon.tech/
+[Resend Badge]: https://img.shields.io/badge/Resend-000000.svg?style=for-the-badge&logo=Resend&logoColor=white
+[Resend URL]: https://resend.com/
+[XYFlow Badge]: https://img.shields.io/badge/xyflow-1A192B.svg?style=for-the-badge&logo=xyflow&logoColor=white
+[XYFlow URL]: https://xyflow.com/
+[ReactHookForm Badge]: https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white
+[ReactHookForm URL]: https://react-hook-form.com/
+[JSON Flow URL]: https://jsonflow.com/
+[JSON Flow Repo URL]: https://github.com/ManuelGil/vscode-json-flow
