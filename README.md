@@ -1,6 +1,6 @@
 <div align="center">
 
-# Andry Orellana <img src="https://cdn.animated-fluent-emojis.com/webp/People/mantechie.webp" width="36" height="36" />
+# Andry Orellana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" />
 
 [![X][X Badge]][X URL]
 [![Instagram][Instagram Badge]][Instagram URL]
@@ -9,11 +9,11 @@
 
 </div>
 
-## <img src="https://cdn.animated-fluent-emojis.com/webp/Travel%20and%20places/launch.webp" width="25" height="25" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" /> About Me
 
 I'm a software developer passionate about building full-stack web applications. My approach is project-driven: I learn and apply technologies as needed to bring ideas to life. Each project is an opportunity to deepen existing skills or explore new tools, always with the goal of creating functional, user-friendly solutions.
 
-## <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f6e0_hammerandwrench.webp" width="25" height="25" /> Technologies & Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Technologies & Tools
 
 | Category             | Technologies                                                                                                                                                                                                                                                                                                                 |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -23,9 +23,9 @@ I'm a software developer passionate about building full-stack web applications. 
 | Development Tools    | [![Vite][Vite Badge]][Vite URL] [![PNPM][PNPM Badge]][PNPM URL] [![Eslint][Eslint Badge]][Eslint URL] [![Prettier][Prettier Badge]][Prettier URL] [![Commitlint][Commitlint Badge]][Commitlint URL] [![Conventional Commits][Conventional Commits Badge]][Conventional Commits URL] [![i18next][i18next Badge]][i18next URL] |
 | Deployment           | [![Vercel][Vercel Badge]][Vercel URL] [![Railway][Railway Badge]][Railway URL] [![Neon][Neon Badge]][Neon URL]                                                                                                                                                                                                               |
 
-## <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4bc_briefcase.webp" width="25" height="25" /> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Featured Projects
 
-### Bookmark Import/Export <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f516_bookmark.webp" width="25" height="25" />
+### Bookmark Import/Export <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="25" height="25" />
 
 A web extension for importing and exporting bookmarks across browsers.
 
@@ -36,11 +36,11 @@ A web extension for importing and exporting bookmarks across browsers.
 [![Lucide][Lucide Badge]][Lucide URL]
 [![TypeScript][TypeScript Badge]][TypeScript URL]
 
-<img src="https://cdn.animated-fluent-emojis.com/webp/Activities/1f9e9_jigsaw.webp" width="25" height="25" /> [Chrome Web Store][Bookmark Import/Export Chrome Web Store URL]
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" alt="Puzzle Piece" width="25" height="25" /> [Chrome Web Store][Bookmark Import/Export Chrome Web Store URL]
 
-<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f5c2_cardindexdividers.webp" width="25" height="25" /> [Repository][Bookmark Import/Export Repo URL]
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="25" height="25" /> [Repository][Bookmark Import/Export Repo URL]
 
-### JSON Flow <img src="https://cdn.animated-fluent-emojis.com/webp/Animals/1f578_spiderweb.webp" width="25" height="25" />
+### JSON Flow <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider%20Web.png" alt="Spider Web" width="25" height="25" />
 
 A powerful VS Code extension to turn your JSON, YAML, XML, and CSV files into interactive graphs.
 
@@ -52,17 +52,17 @@ A powerful VS Code extension to turn your JSON, YAML, XML, and CSV files into in
 [![TypeScript][TypeScript Badge]][TypeScript URL]
 [![Astro][Astro Badge]][Astro URL]
 
-<img src="https://cdn.animated-fluent-emojis.com/webp/Travel%20and%20places/1f310_globewithmeridians.webp" width="25" height="25" /> [Webbsite][JSON Flow URL]
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> [Webbsite][JSON Flow URL]
 
-<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f5c2_cardindexdividers.webp" width="25" height="25" /> [Repository][JSON Flow Repo URL]
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="25" height="25" /> [Repository][JSON Flow Repo URL]
 
-## <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4ca_barchart.webp" width="25" height="25" /> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
 
 ![Andry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndryOre&show_icons=true&theme=github_dark)
 ![Andry's GitHub Streak](https://streak-stats.demolab.com/?user=AndryOre&theme=github-dark-blue)
 ![Andry's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndryOre&layout=compact&theme=github_dark)
 
-## <img src="https://cdn.animated-fluent-emojis.com/webp/Hand%20gestures/handshake.webp" width="25" height="25" /> Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Let's Connect
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
