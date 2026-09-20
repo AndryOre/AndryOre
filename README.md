@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-light.svg" alt="" width="100%">
+  <img src="assets/banner-light.svg" alt="Andry Orellana banner." width="100%">
 </picture>
 
 # Andry Orellana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" />
@@ -16,7 +16,7 @@
 
 I build production web platforms for startups and small teams — payments, auth, and the self-hosted infrastructure under them. Mostly TypeScript, Next.js and Postgres.
 
-Independent contractor since 2024. My browser extension serves **4,000 users** on the Chrome Web Store, and I contribute to **JSON Flow**, a VS Code extension with **74,751 installs**.
+Independent contractor since 2024. My browser extension serves **4,000 users** on the Chrome Web Store, and I contribute to **JSON Flow**, a VS Code extension with **74,000+ installs**.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Currently
 
@@ -40,7 +40,7 @@ A browser extension to import and export bookmarks across browsers, in HTML, JSO
 
 ### JSON Flow <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider%20Web.png" alt="Spider Web" width="25" height="25" />
 
-A VS Code extension that turns JSON, YAML, XML and CSV files into interactive graphs — **74,751 installs**. I built the marketing site end to end and contributed to the extension's React webview: the shadcn/ui migration, theming, a settings dialog with persistence, and layout state.
+A VS Code extension that turns JSON, YAML, XML and CSV files into interactive graphs — **74,000+ installs**. I built the marketing site end to end and contributed to the extension's React webview: the shadcn/ui migration, theming, a settings dialog with persistence, and layout state.
 
 [![Astro][Astro Badge]][Astro URL]
 [![React][React Badge]][React URL]
