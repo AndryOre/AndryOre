@@ -6,7 +6,7 @@
   <img src="assets/banner-light.svg" alt="Andry Orellana banner." width="100%">
 </picture>
 
-# Andry Orellana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" />
+# Andry Orellana <img src="https://animated-fluent-emojis-files.andryore.dev/gif/waving-hand.gif" alt="Waving Hand" width="25" height="25" />
 
 [![LinkedIn][LinkedIn Badge]][LinkedIn URL]
 [![X][X Badge]][X URL]
@@ -16,29 +16,39 @@
 
 I build production web platforms for startups and small teams — payments, auth, and the self-hosted infrastructure under them. Mostly TypeScript, Next.js and Postgres.
 
-Independent contractor since 2024. My browser extension serves **4,000 users** on the Chrome Web Store, and I contribute to **JSON Flow**, a VS Code extension with **74,000+ installs**.
+Independent contractor since 2024. My browser extension **Snug** serves **5,000 users** on the Chrome Web Store, and I contribute to **JSON Flow**, a VS Code extension with **74,000+ installs**.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Currently
+## <img src="https://animated-fluent-emojis-files.andryore.dev/gif/rocket-launch.gif" alt="Rocket Launch" width="25" height="25" /> Currently
 
-- 🔭 **Building** — SaaS platforms in production for clients, plus a self-hosted starter I'm opening up
+- 🔭 **Building** — SaaS platforms in production for clients, plus **AndryOre Starter**, a self-hosted starter I'm opening up
 - 🧰 **Running** — my own infrastructure: Coolify, Docker Compose, and a self-hosted CI runner fleet
 - 💬 **Open to** — contract and full-time work
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Projects
+## <img src="https://animated-fluent-emojis-files.andryore.dev/gif/briefcase.gif" alt="Briefcase" width="25" height="25" /> Projects
 
-### Bookmark Import/Export <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="25" height="25" />
+### Snug <img src="https://animated-fluent-emojis-files.andryore.dev/gif/bookmark.gif" alt="Bookmark" width="25" height="25" />
 
-A browser extension to import and export bookmarks across browsers, in HTML, JSON or CSV. **4,000 users** on the Chrome Web Store. Built and maintained end to end, MIT licensed.
+A browser extension to export, import and back up your bookmarks across browsers, in six formats, on a schedule — everything stays on your device. **5,000 users** on the Chrome Web Store, also on Microsoft Edge Add-ons. Built and maintained end to end, MIT licensed.
 
-[![Plasmo][Plasmo Badge]][Plasmo URL]
+[![WXT][WXT Badge]][WXT URL]
 [![React][React Badge]][React URL]
 [![TypeScript][TypeScript Badge]][TypeScript URL]
 [![TailwindCSS][TailwindCSS Badge]][TailwindCSS URL]
 [![Shadcn/UI][Shadcn/UI Badge]][Shadcn/UI URL]
 
-[Chrome Web Store][Bookmark Import/Export Chrome Web Store URL] · [Repository][Bookmark Import/Export Repo URL]
+[Website][Snug URL] · [Chrome Web Store][Snug Chrome Web Store URL] · [Edge Add-ons][Snug Edge URL] · [Repository][Snug Repo URL]
 
-### JSON Flow <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider%20Web.png" alt="Spider Web" width="25" height="25" />
+### Animated Fluent Emojis <img src="https://animated-fluent-emojis-files.andryore.dev/gif/fire.gif" alt="Fire" width="25" height="25" />
+
+Microsoft's animated Fluent emojis as one component: one import, one tag, for React, Vue, Svelte, Astro or plain HTML. They respect reduced motion and hold their space while loading. Published on npm, MIT licensed code.
+
+[![React][React Badge]][React URL]
+[![TypeScript][TypeScript Badge]][TypeScript URL]
+[![Astro][Astro Badge]][Astro URL]
+
+[npm][AFE npm URL] · [Repository][AFE Repo URL]
+
+### JSON Flow <img src="https://animated-fluent-emojis-files.andryore.dev/gif/web.gif" alt="Web" width="25" height="25" />
 
 A VS Code extension that turns JSON, YAML, XML and CSV files into interactive graphs — **74,000+ installs**. I built the marketing site end to end and contributed to the extension's React webview: the shadcn/ui migration, theming, a settings dialog with persistence, and layout state.
 
@@ -51,7 +61,7 @@ A VS Code extension that turns JSON, YAML, XML and CSV files into interactive gr
 
 [Website][JSON Flow URL] · [Repository][JSON Flow Repo URL]
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack
+## <img src="https://animated-fluent-emojis-files.andryore.dev/gif/hammer-and-wrench.gif" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack
 
 [![TypeScript][TypeScript Badge]][TypeScript URL]
 [![Next.js][Next.js Badge]][Next.js URL]
@@ -76,7 +86,7 @@ A VS Code extension that turns JSON, YAML, XML and CSV files into interactive gr
 
 </details>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Let's talk
+## <img src="https://animated-fluent-emojis-files.andryore.dev/gif/handshake.gif" alt="Handshake" width="25" height="25" /> Let's talk
 
 I'm open to contract and full-time work, and always up for a good technical conversation. The fastest way to reach me is [email](mailto:hello@andryore.dev) or [LinkedIn][LinkedIn URL].
 
@@ -86,8 +96,12 @@ I'm open to contract and full-time work, and always up for a good technical conv
 [X URL]: https://x.com/AndryOre
 [Email Badge]: https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white
 [Email URL]: mailto:hello@andryore.dev
-[Bookmark Import/Export Chrome Web Store URL]: https://chromewebstore.google.com/detail/bookmark-importexport/gdhpeilfkeeajillmcncaelnppiakjhn
-[Bookmark Import/Export Repo URL]: https://github.com/AndryOre/bookmarks-import-export
+[Snug URL]: https://snug.andryore.dev/
+[Snug Chrome Web Store URL]: https://chromewebstore.google.com/detail/gdhpeilfkeeajillmcncaelnppiakjhn
+[Snug Edge URL]: https://microsoftedge.microsoft.com/addons/detail/efknehclgcncocgochoibgiiagklcnho
+[Snug Repo URL]: https://github.com/AndryOre/snug
+[AFE npm URL]: https://www.npmjs.com/package/animated-fluent-emojis
+[AFE Repo URL]: https://github.com/AndryOre/animated-fluent-emojis
 [JSON Flow URL]: https://json-flow.com/
 [JSON Flow Repo URL]: https://github.com/ManuelGil/vscode-json-flow
 [TypeScript Badge]: https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white
@@ -138,7 +152,7 @@ I'm open to contract and full-time work, and always up for a good technical conv
 [Figma URL]: https://www.figma.com/
 [Conventional Commits Badge]: https://img.shields.io/badge/Conventional%20Commits-FE5196.svg?style=for-the-badge&logo=Conventional-Commits&logoColor=white
 [Conventional Commits URL]: https://www.conventionalcommits.org/en/v1.0.0/
-[Plasmo Badge]: https://img.shields.io/badge/Plasmo-0F0C29.svg?style=for-the-badge&logo=Plasmo&logoColor=white
-[Plasmo URL]: https://www.plasmo.com/
+[WXT Badge]: https://img.shields.io/badge/WXT-67D55E.svg?style=for-the-badge&logo=wxt&logoColor=black
+[WXT URL]: https://wxt.dev/
 [XYFlow Badge]: https://img.shields.io/badge/xyflow-1A192B.svg?style=for-the-badge&logo=xyflow&logoColor=white
 [XYFlow URL]: https://xyflow.com/
