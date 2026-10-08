@@ -16,7 +16,7 @@
 
 I build production web platforms for startups and small teams — payments, auth, and the self-hosted infrastructure under them. Mostly TypeScript, Next.js and Postgres.
 
-Independent contractor since 2024. My browser extension **Snug** serves **4,000 users** on the Chrome Web Store, and I contribute to **JSON Flow**, a VS Code extension with **74,000+ installs**.
+Independent contractor since 2024. My browser extension **Snug** serves **5,000 users** on the Chrome Web Store, and I contribute to **JSON Flow**, a VS Code extension with **74,000+ installs**.
 
 ## <img src="https://animated-fluent-emojis-files.andryore.dev/gif/rocket-launch.gif" alt="Rocket Launch" width="25" height="25" /> Currently
 
@@ -28,7 +28,7 @@ Independent contractor since 2024. My browser extension **Snug** serves **4,000 
 
 ### Snug <img src="https://animated-fluent-emojis-files.andryore.dev/gif/bookmark.gif" alt="Bookmark" width="25" height="25" />
 
-A browser extension to export, import and back up your bookmarks across browsers, in six formats, on a schedule — everything stays on your device. **4,000 users** on the Chrome Web Store, also on Microsoft Edge Add-ons. Built and maintained end to end, MIT licensed.
+A browser extension to export, import and back up your bookmarks across browsers, in six formats, on a schedule — everything stays on your device. **5,000 users** on the Chrome Web Store, also on Microsoft Edge Add-ons. Built and maintained end to end, MIT licensed.
 
 [![WXT][WXT Badge]][WXT URL]
 [![React][React Badge]][React URL]
