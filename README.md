@@ -16,7 +16,7 @@
 
 I build production web platforms for startups and small teams — payments, auth, and the self-hosted infrastructure under them. Mostly TypeScript, Next.js and Postgres.
 
-Independent contractor since 2024. My browser extension **Snug** serves **5,000 users** on the Chrome Web Store, and I contribute to **JSON Flow**, a VS Code extension with **74,000+ installs**.
+Independent contractor since 2024. My browser extension **Snug** serves **5,000 users** on the Chrome Web Store, and I contribute to **JSON Flow**, a VS Code extension with **75,000+ installs**.
 
 ## <img src="https://animated-fluent-emojis-files.andryore.dev/gif/rocket-launch.gif" alt="Rocket Launch" width="25" height="25" /> Currently
 
@@ -50,7 +50,7 @@ Microsoft's animated Fluent emojis as one component: one import, one tag, for Re
 
 ### JSON Flow <img src="https://animated-fluent-emojis-files.andryore.dev/gif/web.gif" alt="Web" width="25" height="25" />
 
-A VS Code extension that turns JSON, YAML, XML and CSV files into interactive graphs — **74,000+ installs**. I built the marketing site end to end and contributed to the extension's React webview: the shadcn/ui migration, theming, a settings dialog with persistence, and layout state.
+A VS Code extension that turns JSON, YAML, XML and CSV files into interactive graphs — **75,000+ installs**. I built the marketing site end to end and contributed to the extension's React webview: the shadcn/ui migration, theming, a settings dialog with persistence, and layout state.
 
 [![Astro][Astro Badge]][Astro URL]
 [![React][React Badge]][React URL]
